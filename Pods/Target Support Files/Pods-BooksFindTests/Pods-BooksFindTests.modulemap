@@ -1,0 +1,6 @@
+framework module Pods_BooksFindTests {
+  umbrella header "Pods-BooksFindTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
